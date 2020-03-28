@@ -1,0 +1,57 @@
+
+/* slider */
+.slider h3,
+.slider h5 {
+    text-shadow: 1px 1px 20px rgba(0, 0, 0, 0.5);
+}
+
+/* logo */
+.brand-logo img{
+    max-width: 120px;
+    max-height: 50px
+}
+
+/* urban & folkgreen */
+.urban,
+.folkgreen {
+    text-shadow: 1px 1px 40px rgba(0, 0, 0, 0.5);
+}
+
+.urban img{
+    max-width: 400px;
+    max-height: 450px;
+}
+
+.folkgreen img{
+    max-width: 450px;
+    max-height: 350px;
+}
+
+
+/* Preset Urban */
+.preseturban img{
+    max-width: 400px;
+    max-height: 300px;
+}
+
+
+/* parallax section */
+.parallax-container{
+    height: 1250px;
+}
+
+.parallax img{
+    filter: blur(4px);
+}
+
+
+section {
+    padding: 20px 0;
+}
+
+
+
+
+
+
+
